@@ -1,4 +1,5 @@
 // Reinforcement Learning GridWorld Environment
+// Author: David Churchill, Memorial University
 
 class Environment {
 
