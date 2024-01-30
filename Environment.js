@@ -56,10 +56,3 @@ class Environment {
         return !this.isOOB(x,y) && this.getType(x, y) == 'T';
     }
 }
-                                                          
-// Copyright (C) David Churchill - All Rights Reserved
-// COMP3200 - 2023-09 - Assignment 5
-// Written by David Churchill (dave.churchill@gmail.com)
-// Unauthorized copying of these files are strictly prohibited
-// Distributed only for course work at Memorial University
-// If you see this file online please contact email above
