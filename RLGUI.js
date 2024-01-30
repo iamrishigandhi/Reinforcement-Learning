@@ -1,3 +1,7 @@
+// Basic JavaScript HTML5 GUI Helper Functions
+//
+// Author: David Churchill, Memorial University
+
 class RLGUI extends GUI {
     
     constructor(container) {
